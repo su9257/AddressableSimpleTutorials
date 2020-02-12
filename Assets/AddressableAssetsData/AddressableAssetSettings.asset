@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: f540802f79090284f9818a02f7b4170d
+  m_BuildRemoteCatalog: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: e9eef75124b31f64c89ee6bc1c8234fd, type: 2}
+  - {fileID: 11400000, guid: efe6265965e6abb46a8380709a75b102, type: 2}
+  - {fileID: 11400000, guid: c2b76cea04b4a034d8b3c51b4b30e83c, type: 2}
+  - {fileID: 11400000, guid: 9b0a060448056924d95d74f220e845bc, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 465671e65762ea14c8df53536333162e
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 1e392e794f81a4e4a86f12504b3a18a6
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 2bff5f3b09ddd2549b143080082799f9
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 4aac7ebe325f65d4aba448c06e1b6576
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 10c481038d557bb44b58287e33e3892f
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 2d2a136612f19a14683e1d83614fcb15
+        m_Value: http://localhost/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 1e392e794f81a4e4a86f12504b3a18a6
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 2bff5f3b09ddd2549b143080082799f9
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 4aac7ebe325f65d4aba448c06e1b6576
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 10c481038d557bb44b58287e33e3892f
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 2d2a136612f19a14683e1d83614fcb15
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - CoffeeShop
+    - Valentines
+    - Food
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 5370e1da6c2e13b41909be5bf9c88577, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 1c36e1c9880cdf44f9ba8953265d87b6, type: 2}
+  - {fileID: 11400000, guid: d71a1105705ff4145852c8962c7286d5, type: 2}
+  - {fileID: 11400000, guid: 73a2d524d450b6944b6c1b731dae4f0e, type: 2}
+  - {fileID: 11400000, guid: b9bdb6d800266964c9d49db7c43e85db, type: 2}
+  m_ActiveProfileId: 465671e65762ea14c8df53536333162e
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
