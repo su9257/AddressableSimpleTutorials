@@ -13,17 +13,21 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: f540802f79090284f9818a02f7b4170d
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 2bff5f3b09ddd2549b143080082799f9
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 4aac7ebe325f65d4aba448c06e1b6576
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: e9eef75124b31f64c89ee6bc1c8234fd, type: 2}
   - {fileID: 11400000, guid: efe6265965e6abb46a8380709a75b102, type: 2}
   - {fileID: 11400000, guid: c2b76cea04b4a034d8b3c51b4b30e83c, type: 2}
   - {fileID: 11400000, guid: 9b0a060448056924d95d74f220e845bc, type: 2}
+  - {fileID: 11400000, guid: 2ded93a21f4e9784cb08f5e4c8fc8446, type: 2}
+  - {fileID: 11400000, guid: ff0b2eba2aa667b498a29284ee946cb1, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -68,6 +72,7 @@ MonoBehaviour:
     - CoffeeShop
     - Valentines
     - Food
+    - AtlasSprite
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 5370e1da6c2e13b41909be5bf9c88577, type: 2}

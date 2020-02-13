@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8b4b55f6b55cb324b856ac0b4205acc4, type: 3}
+    totalSpriteSurfaceArea: 859776
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c9490da07a55b446198a7cf09495e022, type: 3}
+  - {fileID: 21300000, guid: 2a4eb1c0d30724767898bbb878953ea5, type: 3}
+  - {fileID: 21300000, guid: fa7715c04f6ef417595dcd8c8f43862d, type: 3}
+  - {fileID: 21300000, guid: 18f818e0ed3574ec18c77aaf66b1b15e, type: 3}
+  - {fileID: 21300000, guid: e4b88c4195f8c41efbc312a8693ea0ee, type: 3}
+  - {fileID: 21300000, guid: e73046614de5341cab936328eccef5b5, type: 3}
+  - {fileID: 21300000, guid: e6f0b671fa768455ba13a47e55071566, type: 3}
+  - {fileID: 21300000, guid: 90966b7196f944a3d89e9f3eca9ddfc1, type: 3}
+  - {fileID: 21300000, guid: 240c09b172532463dbee8d039cd1ee72, type: 3}
+  - {fileID: 21300000, guid: e7c188d1612c84e37836ce3072f465c7, type: 3}
+  - {fileID: 21300000, guid: e4d7f4022909e4bf0b58ea6f7e20219e, type: 3}
+  - {fileID: 21300000, guid: 01c99082312f9409aae48e62111c79a6, type: 3}
+  - {fileID: 21300000, guid: 654d5c532548a427fa2e8c2c9afea9bd, type: 3}
+  - {fileID: 21300000, guid: 41ab82738c2114684922be225b01b95c, type: 3}
+  - {fileID: 21300000, guid: d8af2fd377a004958a032e19a6fd391e, type: 3}
+  - {fileID: 21300000, guid: d9087ef3426094135aa8078b77c4d146, type: 3}
+  - {fileID: 21300000, guid: 569c0054e3a444388b7024f1e820f2a6, type: 3}
+  - {fileID: 21300000, guid: 782ab884749f54beda154290ffac7342, type: 3}
+  - {fileID: 21300000, guid: 80622d841b22c4da4b10fb077b836669, type: 3}
+  - {fileID: 21300000, guid: 8f0d79c4783b9475a9890115ef682c0e, type: 3}
+  - {fileID: 21300000, guid: 3ba32605ca92341699d3e8e4f8fe995d, type: 3}
+  - {fileID: 21300000, guid: d9654015344ac4c91973b86b01bee386, type: 3}
+  - {fileID: 21300000, guid: a87dd135a81284efa849d837ab9a0789, type: 3}
+  - {fileID: 21300000, guid: c54e6ae567e294bf8ad3da80b47f32be, type: 3}
+  - {fileID: 21300000, guid: f3a52a16d816d477daff557c2cde5332, type: 3}
+  - {fileID: 21300000, guid: 34643356f54be4d7a8a46241e5151f20, type: 3}
+  - {fileID: 21300000, guid: aaebef56ccf7e4bda80ce26821387c8c, type: 3}
+  - {fileID: 21300000, guid: 00839996ef2fb4b71b68b291928e5f3e, type: 3}
+  - {fileID: 21300000, guid: 3337a2a66799742928ad4d436767a2d3, type: 3}
+  - {fileID: 21300000, guid: 8733db574c3f548bfa41947dc8affd52, type: 3}
+  - {fileID: 21300000, guid: a746dfc7cb3be4cd69c3c54f7cc1defe, type: 3}
+  - {fileID: 21300000, guid: 3b3cc4e74b099475783668381a8bbfaa, type: 3}
+  - {fileID: 21300000, guid: 3bebd238964da4d91a05ce924ac1e24c, type: 3}
+  - {fileID: 21300000, guid: 305b37887c7eb4723bdd859407e6538f, type: 3}
+  - {fileID: 21300000, guid: 18411d59e0dec478b9c00d05eef31117, type: 3}
+  - {fileID: 21300000, guid: 3bd20d99e615b475e87c14309e24c331, type: 3}
+  - {fileID: 21300000, guid: 159421a9278b54b5db15fe4343a1e74b, type: 3}
+  - {fileID: 21300000, guid: 34a13a0a361114d0e9dad82a52acc36c, type: 3}
+  - {fileID: 21300000, guid: f237a88a297a549889e14655ce9d87e7, type: 3}
+  - {fileID: 21300000, guid: fb8f4feaf201d4a41ad2f9a0ce8ccad8, type: 3}
+  - {fileID: 21300000, guid: fb6a7d5beb7ff47d28954b745719e290, type: 3}
+  - {fileID: 21300000, guid: c21855fb91d2d4dff9f88b37c91aba69, type: 3}
+  - {fileID: 21300000, guid: 7d02f6fbec24b4784a23419adc286872, type: 3}
+  - {fileID: 21300000, guid: f14526acb0a19479a8fac86bf010f190, type: 3}
+  - {fileID: 21300000, guid: 30d39acce1cff49cd918f2bde033154b, type: 3}
+  - {fileID: 21300000, guid: 02dbe7ecb47b64bc9bac4ab8b40cc16d, type: 3}
+  - {fileID: 21300000, guid: 1baabd3da4f994cf1b2f79ffead97462, type: 3}
+  - {fileID: 21300000, guid: 88042ebd907004f8194bfdd6423f849c, type: 3}
+  - {fileID: 21300000, guid: 50f672dd1335941dd8950c75ea3b63a8, type: 3}
+  - {fileID: 21300000, guid: 2a39910e765d84e53b49cca23b6f77c0, type: 3}
+  - {fileID: 21300000, guid: 7649231f1fd394b7b9eef81888190697, type: 3}
+  - {fileID: 21300000, guid: ed2afd3f5fc8848fdbda533519808dfb, type: 3}
+  - {fileID: 21300000, guid: f5f7a1ffe2a334783bffd66e914cfb78, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_score_3k
+  - button_score_150
+  - button_lock
+  - button_score_850
+  - button_leaderboard
+  - button_score_700
+  - button_score_1
+  - button_score_0
+  - button_facebook
+  - button_no_ads
+  - button_score_450
+  - button_score_15
+  - button_score_300
+  - button_score_400
+  - button_play
+  - button_score_2k
+  - button_everyplay
+  - button_score_25
+  - button_score_20
+  - button_infinity
+  - button_score_250
+  - button_score_9
+  - button_score_8
+  - button_twitter
+  - button_store
+  - button_info
+  - button_score_500
+  - button_score_75
+  - button_score_650
+  - button_score_5
+  - button_buy_1.99
+  - button_score_550
+  - button_score_800
+  - button_score_50
+  - button_score_7
+  - button_plus_one
+  - button_score_350
+  - button_score_3
+  - button_score_10
+  - button_score_950
+  - button_score_900
+  - button_score_4
+  - button_minus_one
+  - button_restore_purchases
+  - button_score_600
+  - button_score_100
+  - button_score_2
+  - button_score_6
+  - button_score_1k
+  - button_score_750
+  - button_restart
+  - button_share
+  - button_score_200
+  m_Tag: ButtonSpriteAtlas
+  m_IsVariant: 0

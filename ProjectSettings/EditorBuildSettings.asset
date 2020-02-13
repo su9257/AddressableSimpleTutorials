@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadSprite/LoadSprite.unity
+    guid: 80975dd12d7803b4c84dea0f255c8d89
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: d3fdb7d8253d72b41995b42ada5e8d9f,
       type: 2}
