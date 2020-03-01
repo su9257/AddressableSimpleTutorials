@@ -22,312 +22,441 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 05fa88b4fa377418eaac0976b320709e
     m_Address: PW_fridge
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 0683ba921c1a542ea8dae92b271c1e18
     m_Address: PW_doughnut_pink
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 0f416167b7a12714fbafe427067695f5
     m_Address: valentines_card_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - Valentines
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 17ac7eebcd6e04cc1909e60b6bc2fc01
     m_Address: PW_cookie
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 1e390fa4bfb8648509b8ecf4e7237451
     m_Address: PW_sculent02_S
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 2bb858b872f0f4fb89e1d1263c276480
     m_Address: PW_stove
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 2c04cf954647e43589c56b0df4058564
     m_Address: PW_cupboard_corner
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 2c597a3dd113e42e5b84bb1441c18690
     m_Address: PW_display03
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 2dd019f1380a8464da36c528baec5b4c
     m_Address: PW_espresso_cup
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 2e244810fcf8442c2ae5cd7b1f494341
     m_Address: PW_paper
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 31264236aa69f49fba6ca492242bd217
     m_Address: PW_cupboard01
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 31cd80546c3d1474f9335e444db120ee
     m_Address: PW_cheesecake_strawberry
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 340d47ae895ab4f1cb1c63107c57ff7f
     m_Address: PW_frenchtoast_olives
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 3543dbd2cbef54b4395a83d1e32f7419
     m_Address: PW_cheesecake_blueberry
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 36aa94bb9e7364945ad8a487c4c3ee62
     m_Address: PW_plate01
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 3d66c34ece81a4e88b0918ae6e9e4b83
     m_Address: PW_frenchtoas_cherry_tomato
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 446c50f18dcf54a6f8feb4113c421b9e
     m_Address: PW_display_cube02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 450f6d2399809488dab3e957dfe78299
     m_Address: PW_cupcake_redvelvet
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 4dee7bea4c4584015894b8d911e97c4c
     m_Address: OrderGenerator
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 5090b9010d8ca4476a4f9b1315906d61
     m_Address: PW_display_cube
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 57d0183927158465caf394ee21052bb5
     m_Address: PW_sculent02_M
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 5e6527792754e41d48aec14c1dafd8af
     m_Address: PW_cupcake_chocolattechips
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 67b6bd8afc16f482b8cdff490a857fa8
     m_Address: PW_microwave
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 6c4e58881ee101e41af33b5c9734d850
     m_Address: valentines_ring_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - Valentines
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 712bb278659f44938ada3e91dbb4c0f9
     m_Address: PW_cup02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 75221d19731aa453d81714a24451c72a
     m_Address: PW_cupcake_cherry
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 77b051a1cce5b4a36a8cca319997554d
     m_Address: PW_doughnut_white
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 7989684eaf7d44a699019d7be7625a2d
     m_Address: PW_cheesecake_lime
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 7afe7aeeef6f6423085b55ce10305c15
     m_Address: PW_macaron_tower
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 7b9e9044605a04568a0c9d41cebd7913
     m_Address: PW_lemonade
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 7c313b72ae95e4454901041fa86d8984
     m_Address: PW_cupcake_oreo
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 806ac5fcbcc474da28cf79b0a4df73a1
     m_Address: PW_tea_cup02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 80b8d62454dc44cf2984af37c98f941e
     m_Address: PW_doughnut_blackNwhite
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 8b6c44dc7c0ee401e8326e32b669a93c
     m_Address: PW_orangejuice
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 8ba0ff2adae60496aac6d2b5df996d23
     m_Address: PW_toast_cheese
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 8cbd0a9a7593f47c696b2e27706abed8
     m_Address: PW_display04
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 8d57f19c265de49429f0074af4e75232
     m_Address: PW_cup01
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 9007700338d194bd18e3086f4600a7ea
     m_Address: PW_croissant
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: 9acf341c571a948e389aa24e4b77dbd2
     m_Address: PW_frenchtoast_strawberry
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: a053e34ccc3a9480ca81efece4e7cfa9
     m_Address: PW_display02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: a0634ab2a98bd4b78af017c116badda5
     m_Address: PW_espressomachine
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: a2a1bb77f74ef3842b8d4ca4b307decb
     m_Address: chocolate_box_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - Valentines
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: a8596fda882d0439389c54b698c0da6e
     m_Address: PW_plate02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: a880b7f20a3694308be2bff57c22dd9b
     m_Address: PW_sculent01_M
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: af9cdd9ba10234507875bb32ff50333b
     m_Address: PW_cupboard02
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: b4ed931ca91f741b6a600b8a20639eed
     m_Address: PW_croissant_toserve
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: b6d8d01b7dc8ead499039b71171316d9
     m_Address: valentines_ring_02
     m_ReadOnly: 0
     m_SerializedLabels:
     - Valentines
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: b8c3087888fc448acb63e643fea215d3
     m_Address: PW_cupboard_narrow
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: bb5b37d8246d44e598c671792c3ac74a
     m_Address: PW_cheesecake_chocolatte
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
     - Food
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: bbfd91b99086b4acb9d41d225cf41bb2
     m_Address: PW_mochapot
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: c4505a9b219b45b4e8594922ba78cf2c
     m_Address: chocolate_box_02
     m_ReadOnly: 0
     m_SerializedLabels:
     - Valentines
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: cad2aa255f26ba549a2a77357d6bf3e6
+    m_Address: GroupPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: cb5347f407bce459e92511942fdca089
     m_Address: PW_tea_cup01
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: cc432fe3a7a9e4db985762c1cf45d3c6
     m_Address: PW_sculent01_S
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: cc5131061b683423991b909eeabb9849
     m_Address: PW_frenchtoast_orange
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: d69ebb5455c17482da6677eadea7a231
     m_Address: PW_frenchtoast_egg
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: da135e105813e4b9d8fe98a58bfbcb0f
     m_Address: PW_tea_pot
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: f1014df0302d8494dace54e1a35a1d74
     m_Address: PW_cup03
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: f3e44870c7d004aa3a92cdfabc5207bc
     m_Address: PW_pan
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: fb9566ebe82e6f44a9498c592d134430
     m_Address: ColorChangeReferenceCube
     m_ReadOnly: 0
     m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   - m_GUID: fbbf1aaff00e94748a4a8f9d6a37714d
     m_Address: PW_display01
     m_ReadOnly: 0
     m_SerializedLabels:
     - CoffeeShop
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4f9154878c244654aa502240fb0d2393, type: 2}
   m_SchemaSet:

@@ -109,17 +109,17 @@ namespace PW
             //We could store the ID of the object to track last generated orders,
             //Totally random generation may create the same order in row repeatedly.
 
-            int spriteIndex = Random.Range(0, orderSprites.Length);
+            //int spriteIndex = Random.Range(0, orderSprites.Length);
 
-            int orderID = orderedProducts[spriteIndex];
+            //int orderID = orderedProducts[spriteIndex];
 
-            var newOrder = GameObject.Instantiate(orderRepPrefab, UIParentForOrders).GetComponent<ServeOrder>();
+            //var newOrder = GameObject.Instantiate(orderRepPrefab, UIParentForOrders).GetComponent<ServeOrder>();
 
-            newOrder.SetOrder(orderID,Random.Range(5f,40f));
+            //newOrder.SetOrder(orderID,Random.Range(5f,40f));
 
-            newOrder.SetSprite(orderSprites[spriteIndex]);
+            //newOrder.SetSprite(orderSprites[spriteIndex]);
 
-            currentOrderCount++;
+            //currentOrderCount++;
 
         }
 
